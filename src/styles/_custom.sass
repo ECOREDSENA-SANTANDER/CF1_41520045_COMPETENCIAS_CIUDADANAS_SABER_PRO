@@ -2,22 +2,22 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 50%
-    right: 90%
-    width: 100px
+    top: 40%
+    right: 85%
+    width: 70px
+  &-3
+    animation: girarYVolver 5s ease-in-out infinite
+    position: absolute
+    top: 30%
+    right: -30%
+    width: 150px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 70%
-    right: 25%
-    width: 100px
-  &-3
-    position: absolute
-    top: 30%
-    right: 5%
-    width: 100px
+    top: 50%
+    right: -40%
+    width: 150px
     transform-origin: center
-    animation: girarYVolver 5s ease-in-out infinite
 
 @keyframes girarYVolver
   0%
@@ -170,7 +170,7 @@ figcaption
   background-color: #F9F7F0
 
 .bg6
-  background-image: url('../assets/curso/tema1/fd1.svg') !important
+  background-image: url('../assets/curso/tema1/fd2.svg') !important
   background-repeat: no-repeat
   background-size: cover
   background-position: center
@@ -178,12 +178,36 @@ figcaption
   transition: all 0.3s ease
   cursor: pointer
   &:hover 
-    background-image: url('../assets/curso/tema1/fd2.svg') !important
+    background-image: url('../assets/curso/tema1/fd1.svg') !important
     background-repeat: no-repeat
     background-size: cover
     background-position: center
     transform: translateY(-5px)
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15)
+    .ima1 
+      content: url("../assets/curso/tema1/f1.svg") !important
+    .ima2 
+      content: url("../assets/curso/tema1/f2.svg") !important
+    .ima3 
+      content: url("../assets/curso/tema1/f3.svg") !important
+    .ima4
+      content: url("../assets/curso/tema1/f4.svg") !important
+    .ima5 
+      content: url("../assets/curso/tema1/f5.svg") !important
+    .ima6 
+      content: url("../assets/curso/tema1/f6.svg") !important
+    .ima7
+      content: url("../assets/curso/tema1/f7.svg") !important
+    .ima8
+      content: url("../assets/curso/tema1/f8.svg") !important
+    .ima9
+      content: url("../assets/curso/tema1/f9.svg") !important
+    .ima10
+      content: url("../assets/curso/tema1/f10.svg") !important
+    .ima11
+      content: url("../assets/curso/tema1/f11.svg") !important
+    .ima12
+      content: url("../assets/curso/tema1/f12.svg") !important
 
 .tarjeta--slyder.b2
   background-color: #DDF1FE
@@ -202,7 +226,79 @@ figcaption
   justify-content: center
   align-items: center
 
+.bg8
+  background-color: #FEF0DE
+  @media only screen and (min-width: 1024px) 
+    margin-right: -3.4rem
+  @media (min-width: 992px) 
+    .mx-lg-0
+      margin-right: 2rem !important
+      margin-left: 0rem !important
 
+.sob1
+  margin-left: -9% 
+  margin-bottom: -5px
+  z-index: 2
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 7rem
+  & > *
+    position: relative
+  p
+    margin-bottom: 0
+  &::before
+    position: absolute
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    //background-color: #DAF5EE
+    @media only screen and (max-width: 767px)
+      width: calc( 100% - 0px)
+    @media only screen and (min-width: 768px) and (max-width: 1023px)
+      width: calc( 100% - 0px)
+  @media (max-width: 1000px)
+    padding-right: 1rem
+.crd--first
+  &::before
+    background-color: #FFEAED
+    border-top-left-radius: 30px
+.crd--last
+  &::before
+    border-bottom-left-radius: 30px
+    background-color: #DDF1FE
+.crd--avatarHorizontal.cr1
+  &::before
+    background-color: #DAD3E8
+.crd--avatarHorizontal.cr2
+  &::before
+    background-color: #FEF0DE
+.crd--avatarHorizontal.cr3
+  &::before
+    background-color: #CAEEE4
+
+.lista-ol--cuadro__vineta 
+  background-color: #F0B068
+  color: black
+
+.bg9
+  background-color: #FFEAED
+  @media only screen and (min-width: 1024px) 
+    margin-left: -3.4rem
+  @media (min-width: 992px) 
+    .mx-lg-4 
+      margin-right: 1.5rem !important
+      margin-left: 2rem !important
+
+.fa-bolt
+  content: url('../assets/curso/tema2/ico.svg')
+  width: 1.5em  
+  height: 1.5em 
+  top: -0px !important
+
+.bg10
+  background-color:#FFEAED
 
 
 ////////////////////////TABLAS/////////////////////
