@@ -33,7 +33,7 @@
               .tarjeta.bg-white.p-4.p-lg-5.h-100
                 TarjetaAudio.color-acento-botones.mb-0(
                 texto="Título Pódcast acerca de la Inteligencia emocional"
-                :audio="require('@/assets/actividad/audio/end-game-success.mp3')"
+                :audio="require('@/assets/actividad/audio/Podcast_CF1_41520045_Competencias_ciudadanas_Saber_Pro.mp3')"
             ).mb-4
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
                 p.mb-0 Resúmen de la temática del Pódcast: Inteligencia emocional - reconocimiento de las emociones y capacidad de relacionarse con los demás. 
