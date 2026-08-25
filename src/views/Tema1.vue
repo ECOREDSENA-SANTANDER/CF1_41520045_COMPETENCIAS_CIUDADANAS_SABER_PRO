@@ -15,15 +15,6 @@
     
     p.mb-4(data-aos="fade-right") La inteligencia emocional intrapersonal es la habilidad para comunicarse de manera eficaz con uno mismo y gestionar adecuadamente las propias emociones. Incluye la autoconciencia emocional, la autorregulación y la automotivación.
     
-    .row.justify-content-center.align-items-end.mb-5
-      .col-lg-8
-        p.mb-4(data-aos="fade-right") La inteligencia emocional interpersonal, por su parte, es la capacidad de comprender y manejar de forma efectiva las emociones de los demás. Está conformada por la empatía y las habilidades sociales.
-        p.mb-4 Con base en lo anterior, es fundamental que toda persona sea consciente de que la competencia ciudadana implica mantenerse actualizada en temas de política, democracia y civismo. Sin embargo, también es indispensable fortalecer el ámbito afectivo, que abarca emociones, deseos y sentimientos, los cuales deben gestionarse con inteligencia, agudeza y perspicacia.
-        .bg1.p-4.p-lg-5
-          p.mb-0.mx-lg-2 Por ello, lo emocional está estrechamente relacionado con el pensamiento y, a medida que se aprende a gestionarlo, se va configurando el carácter. Es fundamental desarrollar las habilidades de la inteligencia emocional, ya que una persona puede tener un alto rendimiento académico, pero presentar rasgos de personalidad que no estén en coherencia con su ejercicio profesional.
-      .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/tema1/2.png')
-
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
         img(src='@/assets/curso/tema1/3.svg', alt='Texto que describa la imagen')
@@ -34,9 +25,9 @@
                 TarjetaAudio.color-acento-botones.mb-0(
                 texto="Título Pódcast acerca de la Inteligencia emocional"
                 :audio="require('@/assets/actividad/audio/Podcast_CF1_41520045_Competencias_ciudadanas_Saber_Pro.mp3')"
-            ).mb-4
+              ).mb-0
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
-                p.mb-0 Resúmen de la temática del Pódcast: Inteligencia emocional - reconocimiento de las emociones y capacidad de relacionarse con los demás. 
+                //p.mb-0 
 
     .tit.mb-5(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
@@ -101,8 +92,7 @@
         .titulo-sexto
           h5 Figura 2.
           | Principales hormonas del cerebro
-        .bg3.p-4.p-lg-5
-          img(src='@/assets/curso/tema1/7.svg', alt='Las hormonas del cerebro son mensajeros químicos esenciales que regulan nuestras emociones, pensamientos y comportamientos. Sustancias como la dopamina, serotonina y oxitocina influyen en el bienestar, la motivación y las relaciones sociales. Su equilibrio es clave para la salud mental y física. Mantener hábitos saludables ayuda a regular su funcionamiento y mejorar la calidad de vida.')
+        img(src='@/assets/curso/tema1/7.svg', alt='Las hormonas del cerebro son mensajeros químicos esenciales que regulan nuestras emociones, pensamientos y comportamientos. Sustancias como la dopamina, serotonina y oxitocina influyen en el bienestar, la motivación y las relaciones sociales. Su equilibrio es clave para la salud mental y física. Mantener hábitos saludables ayuda a regular su funcionamiento y mejorar la calidad de vida.')
 
     .tit.mb-5.mb-lg-4(data-aos="fade-left")
       img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
@@ -149,19 +139,19 @@
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima1(src='@/assets/curso/tema1/12.svg' alt='AvatarTop')
-          h4.mb-0.text-center Fomentar la creatividad 
+          h4.mb-0.text-center Fomentar la creatividad.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima2(src='@/assets/curso/tema1/13.svg' alt='AvatarTop')
-          h4.mb-0.text-center Confiar en las propias capacidades
+          h4.mb-0.text-center Confiar en las propias capacidades.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima3(src='@/assets/curso/tema1/14.svg' alt='AvatarTop')
-          h4.mb-0.text-center Asumir las dificultades como oportunidades de aprendizaje
+          h4.mb-0.text-center Asumir las dificultades como oportunidades de aprendizaje.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima4(src='@/assets/curso/tema1/15.svg' alt='AvatarTop')
-          h4.mb-0.text-center Practicar la conciencia plena
+          h4.mb-0.text-center Practicar la conciencia plena.
     .d-none
       img(src='@/assets/curso/tema1/f1.svg' alt='')
       img(src='@/assets/curso/tema1/f2.svg' alt='')
@@ -172,19 +162,19 @@
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima5(src='@/assets/curso/tema1/16.svg' alt='AvatarTop')
-          h4.mb-0.text-center Reconocer tanto las propias potencialidades como las limitaciones
+          h4.mb-0.text-center Reconocer tanto las propias potencialidades como las limitaciones.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima6(src='@/assets/curso/tema1/17.svg' alt='AvatarTop')
-          h4.mb-0.text-center Mantener una visión objetiva de la vida, desde una perspectiva optimista
+          h4.mb-0.text-center Mantener una visión objetiva de la vida, desde una perspectiva optimista.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima7(src='@/assets/curso/tema1/18.svg' alt='AvatarTop')
-          h4.mb-0.text-center Rodearse de personas con actitudes positivas
+          h4.mb-0.text-center Rodearse de personas con actitudes positivas.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima8(src='@/assets/curso/tema1/19.svg' alt='AvatarTop')
-          h4.mb-0.text-center Evitar la necesidad de controlar todas las situaciones
+          h4.mb-0.text-center Evitar la necesidad de controlar todas las situaciones.
     .d-none
       img(src='@/assets/curso/tema1/f5.svg' alt='')
       img(src='@/assets/curso/tema1/f6.svg' alt='')
@@ -195,19 +185,19 @@
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima9(src='@/assets/curso/tema1/20.svg' alt='AvatarTop')
-          h4.mb-0.text-center Ser flexible ante los cambios
+          h4.mb-0.text-center Ser flexible ante los cambios.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima10(src='@/assets/curso/tema1/21.svg' alt='AvatarTop')
-          h4.mb-0.text-center Perseverar en las metas propuestas
+          h4.mb-0.text-center Perseverar en las metas propuestas.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima11(src='@/assets/curso/tema1/22.svg' alt='AvatarTop')
-          h4.mb-0.text-center Afrontar la adversidad con sentido del humor
+          h4.mb-0.text-center Afrontar la adversidad con sentido del humor.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
           img.img-t.img-a.my-2.mb-4.ima12(src='@/assets/curso/tema1/23.svg' alt='AvatarTop')
-          h4.mb-0.text-center Buscar apoyo en los demás y fortalecer las redes de apoyo social
+          h4.mb-0.text-center Buscar apoyo en los demás y fortalecer las redes de apoyo social.
     .d-none
       img(src='@/assets/curso/tema1/f9.svg' alt='')
       img(src='@/assets/curso/tema1/f10.svg' alt='')
