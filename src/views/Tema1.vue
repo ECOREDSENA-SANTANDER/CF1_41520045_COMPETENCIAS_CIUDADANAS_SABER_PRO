@@ -17,7 +17,7 @@
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-12
-        img(src='@/assets/curso/tema1/3.svg', alt='Texto que describa la imagen')
+        img(src='@/assets/curso/tema1/3.svg')
         .row.justify-content-center.g-0
           .col-lg-12
             .tarjeta.bg2.p-4.rounded-0.h-100
@@ -30,7 +30,7 @@
                 //p.mb-0 
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 La inteligencia emocional interpersonal
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -44,10 +44,10 @@
     .bg4.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/5.png', alt='')
+          img(src='@/assets/curso/tema1/5.png')
         .col-lg-7(data-aos="fade-left")
           .p-4
-            img.mb-3.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/6.svg', alt='')
+            img.mb-3.img-t.d-none.d-lg-block(src='@/assets/curso/tema1/6.svg')
             p.mb-3(data-aos="fade-left") Para fortalecer estas habilidades, es necesario cuestionarse y reflexionar sobre la propia forma de ser y de percibir el entorno: ¿qué tipo de persona soy?, ¿cómo está mi autoestima?, ¿valoro lo que soy y lo que hago?, ¿soy competente intelectualmente?, ¿comprendo, respeto y tolero a los demás?, ¿tengo en cuenta el cuidado del medio ambiente?
             p.mb-0(data-aos="fade-left") Es importante reconocer que las respuestas pueden ser subjetivas, ya que el amor propio puede distorsionar la percepción de uno mismo, llevando a pensar que siempre se actúa correctamente. Por ello, resulta conveniente realizar este tipo de reflexiones en grupo, con prudencia y apertura, para acercarse a una visión más objetiva y fortalecer aquellos aspectos que favorezcan una convivencia armoniosa y el desarrollo de competencias ciudadanas.
 
@@ -82,7 +82,7 @@
                 td Facilita la convivencia y la resolución de conflictos.
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Hormonas del cerebro: ¿por qué son importantes?
     
     p.mb-4(data-aos="fade-right") Las hormonas y neurotransmisores cerebrales son sustancias químicas que permiten la comunicación entre las neuronas. Son fundamentales para regular emociones, pensamientos y comportamientos.
@@ -95,7 +95,7 @@
         img(src='@/assets/curso/tema1/7.svg', alt='Las hormonas del cerebro son mensajeros químicos esenciales que regulan nuestras emociones, pensamientos y comportamientos. Sustancias como la dopamina, serotonina y oxitocina influyen en el bienestar, la motivación y las relaciones sociales. Su equilibrio es clave para la salud mental y física. Mantener hábitos saludables ayuda a regular su funcionamiento y mejorar la calidad de vida.')
 
     .tit.mb-5.mb-lg-4(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 Identificación de la competencia emocional
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
@@ -103,7 +103,7 @@
         p.mb-4 Para identificar esta competencia, es fundamental fortalecer el autoconcepto a través de la autoimagen, la autoestima y el autocompromiso. Estos elementos, desde lo individual, contribuyen a la formación del carácter y de la identidad.
         p.mb-0 En este sentido, es posible hablar de hábitos orientados al desarrollo de la inteligencia emocional, los cuales pueden aplicarse en las circunstancias adecuadas para favorecer la armonía, la convivencia pacífica y la construcción de paz, aspectos que resultan especialmente necesarios en el contexto de Colombia.
       .col-lg-6.d-none.d-lg-block
-        img.img-t.img-a(src='@/assets/curso/tema1/8.png', alt='')
+        img.img-t.img-a(src='@/assets/curso/tema1/8.png')
 
 
     separador
@@ -112,12 +112,12 @@
     
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-5.d-none.d-lg-block
-        img.img-t.img-a(src='@/assets/curso/tema1/9.png', alt='')
+        img.img-t.img-a(src='@/assets/curso/tema1/9.png')
       .col-lg-7
         .bg5.mb-4
           .row.justify-content-center.align-items-center
             .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right")
-              img(src='@/assets/curso/tema1/10.svg', alt='')
+              img(src='@/assets/curso/tema1/10.svg')
             .col-lg-7(data-aos="fade-left")
               .p-4
                 p.mb-0 La resiliencia es la capacidad de enfrentar las dificultades, de cualquier tipo, con flexibilidad y de sobreponerse a ellas. Gracias a esta habilidad, el ser humano puede atravesar momentos potencialmente traumáticos y salir fortalecido.
@@ -130,7 +130,7 @@
         img(src='@/assets/curso/tema1/11.png')
 
     .tit.mb-5(data-aos="fade-left")
-      img(:src="require('@/assets/curso/tema1/sub.svg')" alt='Imagen decorativa')
+      img(:src="require('@/assets/curso/tema1/sub.svg')")
       h3.mb-0 ¿Cómo ser más resiliente?
 
     p.mb-4(data-aos="fade-right") La resiliencia no es una cualidad innata; por el contrario, es una capacidad que puede desarrollarse a lo largo de la vida. Según Southwick & Charney (2012), algunas acciones que favorecen su fortalecimiento son:
@@ -138,71 +138,71 @@
     .row.justify-content-center.align-items-stretch.mb-4(data-aos="fade-left")
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima1(src='@/assets/curso/tema1/12.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima1(src='@/assets/curso/tema1/12.svg')
           h4.mb-0.text-center Fomentar la creatividad.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima2(src='@/assets/curso/tema1/13.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima2(src='@/assets/curso/tema1/13.svg')
           h4.mb-0.text-center Confiar en las propias capacidades.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima3(src='@/assets/curso/tema1/14.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima3(src='@/assets/curso/tema1/14.svg')
           h4.mb-0.text-center Asumir las dificultades como oportunidades de aprendizaje.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima4(src='@/assets/curso/tema1/15.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima4(src='@/assets/curso/tema1/15.svg')
           h4.mb-0.text-center Practicar la conciencia plena.
     .d-none
-      img(src='@/assets/curso/tema1/f1.svg' alt='')
-      img(src='@/assets/curso/tema1/f2.svg' alt='')
-      img(src='@/assets/curso/tema1/f3.svg' alt='')
-      img(src='@/assets/curso/tema1/f4.svg' alt='')
+      img(src='@/assets/curso/tema1/f1.svg')
+      img(src='@/assets/curso/tema1/f2.svg')
+      img(src='@/assets/curso/tema1/f3.svg')
+      img(src='@/assets/curso/tema1/f4.svg')
 
     .row.justify-content-center.align-items-stretch.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima5(src='@/assets/curso/tema1/16.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima5(src='@/assets/curso/tema1/16.svg')
           h4.mb-0.text-center Reconocer tanto las propias potencialidades como las limitaciones.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima6(src='@/assets/curso/tema1/17.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima6(src='@/assets/curso/tema1/17.svg')
           h4.mb-0.text-center Mantener una visión objetiva de la vida, desde una perspectiva optimista.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima7(src='@/assets/curso/tema1/18.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima7(src='@/assets/curso/tema1/18.svg')
           h4.mb-0.text-center Rodearse de personas con actitudes positivas.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima8(src='@/assets/curso/tema1/19.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima8(src='@/assets/curso/tema1/19.svg')
           h4.mb-0.text-center Evitar la necesidad de controlar todas las situaciones.
     .d-none
-      img(src='@/assets/curso/tema1/f5.svg' alt='')
-      img(src='@/assets/curso/tema1/f6.svg' alt='')
-      img(src='@/assets/curso/tema1/f7.svg' alt='')
-      img(src='@/assets/curso/tema1/f8.svg' alt='')
+      img(src='@/assets/curso/tema1/f5.svg')
+      img(src='@/assets/curso/tema1/f6.svg')
+      img(src='@/assets/curso/tema1/f7.svg')
+      img(src='@/assets/curso/tema1/f8.svg')
 
     .row.justify-content-center.align-items-stretch.mb-lg-5.mb-4(data-aos="fade-left")
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima9(src='@/assets/curso/tema1/20.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima9(src='@/assets/curso/tema1/20.svg')
           h4.mb-0.text-center Ser flexible ante los cambios.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima10(src='@/assets/curso/tema1/21.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima10(src='@/assets/curso/tema1/21.svg')
           h4.mb-0.text-center Perseverar en las metas propuestas.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima11(src='@/assets/curso/tema1/22.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima11(src='@/assets/curso/tema1/22.svg')
           h4.mb-0.text-center Afrontar la adversidad con sentido del humor.
       .col-lg-3.col-md-6.mb-lg-0.mb-4
         .h-100.bg6.p-4
-          img.img-t.img-a.my-2.mb-4.ima12(src='@/assets/curso/tema1/23.svg' alt='AvatarTop')
+          img.img-t.img-a.my-2.mb-4.ima12(src='@/assets/curso/tema1/23.svg')
           h4.mb-0.text-center Buscar apoyo en los demás y fortalecer las redes de apoyo social.
     .d-none
-      img(src='@/assets/curso/tema1/f9.svg' alt='')
-      img(src='@/assets/curso/tema1/f10.svg' alt='')
-      img(src='@/assets/curso/tema1/f11.svg' alt='')
-      img(src='@/assets/curso/tema1/f12.svg' alt='')
+      img(src='@/assets/curso/tema1/f9.svg')
+      img(src='@/assets/curso/tema1/f10.svg')
+      img(src='@/assets/curso/tema1/f11.svg')
+      img(src='@/assets/curso/tema1/f12.svg')
 
     p.mb-0(data-aos="fade-right") Estas acciones contribuyen a desarrollar una actitud más adaptativa frente a las dificultades, favoreciendo el crecimiento personal y el bienestar emocional.
 
@@ -213,12 +213,12 @@
 
     .row.justify-content-center.align-items-end.mb-lg-5.mb-4
       .col-lg-5.d-none.d-lg-block
-        img.img-t.img-a(src='@/assets/curso/tema1/24.png', alt='')
+        img.img-t.img-a(src='@/assets/curso/tema1/24.png')
       .col-lg-7
         .bg3.mb-4
           .row.justify-content-center.align-items-center
             .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right")
-              img(src='@/assets/curso/tema1/25.svg', alt='')
+              img(src='@/assets/curso/tema1/25.svg')
             .col-lg-7(data-aos="fade-left")
               .p-4
                 p.mb-0 El desarrollo de competencias ciudadanas en Colombia tiene como propósito promover un cambio social significativo. Para ello, es necesario reconocer y analizar tanto los antecedentes históricos como las características sociales actuales del país, incluyendo aspectos como los índices de violencia en el ámbito familiar, político y urbano.

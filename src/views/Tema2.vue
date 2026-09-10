@@ -36,7 +36,7 @@
         p.mb-4 Los valores universales constituyen principios fundamentales que orientan el comportamiento humano y favorecen la convivencia en sociedad. Son considerados universales porque trascienden culturas, contextos y épocas, sirviendo como base para la construcción de relaciones respetuosas, justas y solidarias.
         p.mb-0 Estos valores permiten guiar las decisiones, actitudes y acciones de las personas, promoviendo el respeto por la dignidad humana, el reconocimiento de los derechos y el cumplimiento de los deberes. Además, contribuyen al desarrollo integral del individuo, fortaleciendo tanto su dimensión ética como su capacidad de interactuar de manera armoniosa con los demás. A continuación, se presentan algunos:
       .col-lg-6.d-none.d-lg-block
-        img.img-t.img-a(src='@/assets/curso/tema2/4.png', alt='')
+        img.img-t.img-a(src='@/assets/curso/tema2/4.png')
     
     .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12
@@ -44,7 +44,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/5.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/5.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4 
@@ -53,7 +53,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/6.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/6.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -62,7 +62,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/7.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/7.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -71,7 +71,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/8.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/8.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -80,7 +80,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/9.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/9.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -89,7 +89,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/10.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/10.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -98,7 +98,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/11.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/11.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -107,7 +107,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/12.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/12.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -116,7 +116,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/13.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/13.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -125,7 +125,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/14.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/14.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -134,7 +134,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/15.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/15.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -143,7 +143,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/16.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/16.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -152,7 +152,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/17.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/17.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -161,7 +161,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/18.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/18.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -170,7 +170,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/19.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/19.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -179,7 +179,7 @@
           .tarjeta.tarjeta--slyder.b2.p-3
             .row.justify-content-center.align-items-center.mb-4.mt-3
               .col-12
-                img.img-a.img-t(data-aos="zoom-in-left")(src='@/assets/curso/tema2/20.svg' alt='AvatarTop')
+                img.img-a.img-t(src='@/assets/curso/tema2/20.svg')
             .row.justify-content-center.align-items-center.mb-0
               .col-10
                 .bg7.p-1.mb-4
@@ -193,7 +193,7 @@
     
     .row.justify-content-center.align-items-start.mb-5(data-aos="fade-right")
       .col-lg-4.d-none.d-lg-block
-        img(src='@/assets/curso/tema2/21.png' alt='AvatarTop')
+        img(src='@/assets/curso/tema2/21.png')
       .col-lg-8
         .bg8.p-4.p-lg-5.mb-4
           p.mb-0.mx-lg-0 La Constitución Política de Colombia de 1991 establece el marco normativo que orienta la formación ciudadana en el país, integrando derechos, deberes, principios éticos, valores y prácticas democráticas. En este sentido, las competencias ciudadanas hacen parte de un proceso articulado entre lo político, lo educativo y lo social, orientado a la formación de individuos capaces de convivir de manera responsable y participativa.
@@ -208,39 +208,39 @@
               .row.align-items-center
                 .col-auto
                   figure
-                    img.d-none.d-lg-block(src="@/assets/curso/tema2/22.svg", alt="alt")
+                    img.d-none.d-lg-block(src="@/assets/curso/tema2/22.svg")
                 .col
                   p.mb-0 a) El pleno desarrollo de la personalidad, sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico. 
             .crd.crd--avatarHorizontal.cr1.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
-                    img.d-none.d-lg-block(src="@/assets/curso/tema2/23.svg", alt="alt")
+                    img.d-none.d-lg-block(src="@/assets/curso/tema2/23.svg")
                 .col
                   p.mb-0 b) La formación en el respeto a la vida, a los derechos humanos, a la paz y a los principios democráticos como la convivencia, el pluralismo, la justicia, la solidaridad, la equidad, la tolerancia y la libertad. 
             .crd.crd--avatarHorizontal.cr2.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
-                    img.d-none.d-lg-block(src="@/assets/curso/tema2/24.svg", alt="alt")
+                    img.d-none.d-lg-block(src="@/assets/curso/tema2/24.svg")
                 .col
                   p.mb-0 c) La formación para la participación en las decisiones que afectan la vida económica, política, administrativa y cultural, así como el respeto por la autoridad legítima, la ley, la cultura nacional, la historia colombiana y los símbolos patrios. 
             .crd.crd--avatarHorizontal.cr3.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
-                    img.d-none.d-lg-block(src="@/assets/curso/tema2/25.svg", alt="alt")
+                    img.d-none.d-lg-block(src="@/assets/curso/tema2/25.svg")
                 .col
                   p.mb-0 d) La adquisición y generación de conocimientos en los diferentes campos del saber, orientados al desarrollo integral del individuo. 
             .crd.crd--avatarHorizontal.crd--last.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
-                    img.d-none.d-lg-block(src="@/assets/curso/tema2/26.svg", alt="alt")
+                    img.d-none.d-lg-block(src="@/assets/curso/tema2/26.svg")
                 .col
                   p.mb-0 e) El estudio y la comprensión crítica de la cultura nacional y de la diversidad étnica y cultural del país, como base para fortalecer la identidad y la unidad nacional. 
           .col-lg-4.sob1.d-none.d-lg-block
-            img.img-t(src="@/assets/curso/tema2/27.svg", alt="alt")
+            img.img-t(src="@/assets/curso/tema2/27.svg")
     
     p.mb-0(data-aos="fade-right") De esta manera, la Constitución no solo establece lineamientos jurídicos, sino que también promueve una educación orientada a la formación de ciudadanos críticos, participativos y comprometidos con la construcción de una sociedad más justa y democrática.
 
@@ -254,7 +254,7 @@
     .bg5.p-4.p-lg-5.mb-5
       .row.justify-content-center.align-items-center(data-aos="fade-right")
         .col-lg-6.d-none.d-lg-block
-          img(src='@/assets/curso/tema2/28.png', alt='alt')
+          img(src='@/assets/curso/tema2/28.png')
         .col-lg-6
           ol.lista-ol--cuadro.lista-ol--separador
             li.d-flex
@@ -291,10 +291,10 @@
     .bg3.mb-5
       .row.justify-content-center.align-items-center
         .col-lg-5.col-md-8.col-12.mb-lg-0.mb-0(data-aos="fade-right")
-          img(src='@/assets/curso/tema2/30.png', alt='')
+          img(src='@/assets/curso/tema2/30.png')
         .col-lg-7(data-aos="fade-left")
           .p-4
-            img.mb-3.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/31.svg', alt='')
+            img.mb-3.img-t.d-none.d-lg-block(src='@/assets/curso/tema2/31.svg')
             p.mb-3(data-aos="fade-left") La incorporación de aspectos ecológicos en las normas de convivencia responde a la necesidad de formar ciudadanos conscientes y responsables con el entorno. En un contexto donde las problemáticas ambientales son cada vez más evidentes, la educación cumple un papel fundamental en la promoción de prácticas sostenibles y en el desarrollo de una cultura de cuidado y respeto por la naturaleza.
             p.mb-0(data-aos="fade-left") En este sentido, las normas no solo orientan la convivencia entre las personas, sino que también deben integrar acciones que favorezcan la protección del medio ambiente. Esto implica reconocer el impacto de las actividades humanas y asumir compromisos individuales y colectivos que contribuyan a la conservación de los recursos naturales.
 
