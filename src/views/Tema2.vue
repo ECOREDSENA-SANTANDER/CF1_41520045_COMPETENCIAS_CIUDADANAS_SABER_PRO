@@ -46,7 +46,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/5.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4 
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Amistad
             p.mb-0.text-center Afecto entre personas que favorece la creación de vínculos cercanos y relaciones de convivencia basadas en el respeto y el apoyo mutuo. 
@@ -55,7 +55,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/6.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Amor
             p.mb-0.text-center Principio de unión que impulsa a las personas hacia el bien, promoviendo el cuidado, la comprensión y la búsqueda de lo valioso y significativo en los demás. 
@@ -64,7 +64,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/7.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Bondad
             p.mb-0.text-center Cualidad de la voluntad que orienta a actuar conforme a lo que se considera bueno y deseable para uno mismo y para los demás. 
@@ -73,7 +73,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/8.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Confianza
             p.mb-0.text-center Sentimiento de seguridad en sí mismo y en los otros, que facilita relaciones sólidas y estables. 
@@ -82,7 +82,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/9.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Fraternidad
             p.mb-0.text-center Sentido de unión y solidaridad entre las personas, basado en el reconocimiento del otro como igual. 
@@ -91,7 +91,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/10.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Honor
             p.mb-0.text-center Conciencia y valoración de la propia dignidad, que guía el comportamiento hacia la coherencia y el respeto por uno mismo. 
@@ -100,7 +100,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/11.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Honradez
             p.mb-0.text-center Actuar con rectitud, integridad y transparencia en las acciones y decisiones. 
@@ -109,7 +109,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/12.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Justicia
             p.mb-0.text-center Principio que consiste en dar a cada persona lo que le corresponde, respetando sus derechos y deberes.
@@ -118,7 +118,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/13.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Libertad
             p.mb-0.text-center Capacidad de actuar con autonomía y libre albedrío, asumiendo las consecuencias de las propias decisiones. 
@@ -127,7 +127,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/14.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Paz
             p.mb-0.text-center Conjunto de acciones y actitudes orientadas a la unión, que hacen posible una convivencia social armónica. 
@@ -136,7 +136,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/15.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Respeto
             p.mb-0.text-center Reconocimiento y consideración hacia los demás, valorando sus cualidades, méritos y particularidades. 
@@ -145,7 +145,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/16.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Responsabilidad
             p.mb-0.text-center Compromiso de asumir las consecuencias de los propios actos de manera consciente y voluntaria. 
@@ -154,7 +154,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/17.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Solidaridad
             p.mb-0.text-center Sentido de apoyo y corresponsabilidad entre las personas, que impulsa a colaborar con los demás, especialmente en situaciones de necesidad. 
@@ -163,7 +163,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/18.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Tolerancia
             p.mb-0.text-center  Actitud de apertura y aceptación frente a ideas, creencias o posturas diferentes a las propias. 
@@ -172,7 +172,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/19.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Valentía
             p.mb-0.text-center Capacidad de enfrentar las situaciones de la vida con decisión, firmeza y determinación. 
@@ -181,7 +181,7 @@
               .col-12
                 img.img-a.img-t(src='@/assets/curso/tema2/20.svg')
             .row.justify-content-center.align-items-center.mb-0
-              .col-10
+              .col-11
                 .bg7.p-1.mb-4
                   h4.text-center.text-white.mb-0.ps-2.pe-2 Verdad
             p.mb-0.text-center Coherencia entre lo que se piensa, se siente, se dice y se hace.
@@ -210,35 +210,35 @@
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/22.svg")
                 .col
-                  p.mb-0 a) El pleno desarrollo de la personalidad, sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico. 
+                  p.mb-0 El pleno desarrollo de la personalidad, sin más limitaciones que las que imponen los derechos de los demás y el orden jurídico. 
             .crd.crd--avatarHorizontal.cr1.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/23.svg")
                 .col
-                  p.mb-0 b) La formación en el respeto a la vida, a los derechos humanos, a la paz y a los principios democráticos como la convivencia, el pluralismo, la justicia, la solidaridad, la equidad, la tolerancia y la libertad. 
+                  p.mb-0 La formación en el respeto a la vida, a los derechos humanos, a la paz y a los principios democráticos como la convivencia, el pluralismo, la justicia, la solidaridad, la equidad, la tolerancia y la libertad. 
             .crd.crd--avatarHorizontal.cr2.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/24.svg")
                 .col
-                  p.mb-0 c) La formación para la participación en las decisiones que afectan la vida económica, política, administrativa y cultural, así como el respeto por la autoridad legítima, la ley, la cultura nacional, la historia colombiana y los símbolos patrios. 
+                  p.mb-0 La formación para la participación en las decisiones que afectan la vida económica, política, administrativa y cultural, así como el respeto por la autoridad legítima, la ley, la cultura nacional, la historia colombiana y los símbolos patrios. 
             .crd.crd--avatarHorizontal.cr3.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/25.svg")
                 .col
-                  p.mb-0 d) La adquisición y generación de conocimientos en los diferentes campos del saber, orientados al desarrollo integral del individuo. 
+                  p.mb-0 La adquisición y generación de conocimientos en los diferentes campos del saber, orientados al desarrollo integral del individuo. 
             .crd.crd--avatarHorizontal.crd--last.py-lg-2.py-4
               .row.align-items-center
                 .col-auto
                   figure
                     img.d-none.d-lg-block(src="@/assets/curso/tema2/26.svg")
                 .col
-                  p.mb-0 e) El estudio y la comprensión crítica de la cultura nacional y de la diversidad étnica y cultural del país, como base para fortalecer la identidad y la unidad nacional. 
+                  p.mb-0 El estudio y la comprensión crítica de la cultura nacional y de la diversidad étnica y cultural del país, como base para fortalecer la identidad y la unidad nacional. 
           .col-lg-4.sob1.d-none.d-lg-block
             img.img-t(src="@/assets/curso/tema2/27.svg")
     
